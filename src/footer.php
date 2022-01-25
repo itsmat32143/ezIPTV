@@ -34,7 +34,7 @@
             <ul class="list-unstyled">
               <li>
                 <i class="fab fa-paypal"></i>
-                <a href="https://paypal.me/spencerthayer">PayPal</a>
+                <a href="https://paypal.me/itsmat32143">PayPal</a>
               </li>
               <li>
                 <i class="fas fa-dollar-sign"></i>
@@ -58,7 +58,7 @@
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">
         <a href="https://github.com/spencerthayer/ezIPTV"><?=$name;?></a>
-        N&copy!<?=date("Y");?> &mdash; <a href="https://github.com/spencerthayer">Spencer Thayer</a>
+        N&copy!<?=date("Y");?> &mdash; <a href="https://github.com/itsmat32143">Matty</a>
     </div>
     <!-- Copyright -->
 
